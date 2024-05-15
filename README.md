@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate full-stack developer from Sri Lanka<br><br> I'm currently working on D-Gatwway<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about react<br><br>📫 How to reach me meyrushan29@gmail.com<br><br>
+A passionate full-stack developer from Sri Lanka<br><br> I'm currently working on D-Gateway<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about react<br><br>📫 How to reach me meyrushan29@gmail.com<br><br>
 
 
 ## 🌐 Socials:
