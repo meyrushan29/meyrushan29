@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meyrushan Nadarajan</h1>
-<h3 align="center">Software Engineer · Full-Stack & AI/ML · IEEE CISCON 2026 Author</h3>
+<h3 align="center">Software Engineer · Full-Stack & AI/ML · IEEE CISCON 2026 Author · React • Python • Flutter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=meyrushan29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -14,8 +14,9 @@
 
 I'm a Software Engineer from **Sri Lanka** 🇱🇰 who enjoys building full-stack web and mobile apps and bringing AI/ML into real products.
 
-- 💼 **Associate Software Engineer** at **D-Gateway Innovations** (grew from Software Engineer Intern)
+- 🔍 **Open to work**: Software Engineering roles (on-site, hybrid or remote)
 - 🎓 **B.Sc. (Hons) in Information Technology** – SLIIT (2022 – 2026) · Higher Diploma in IT – SLIIT
+- 💼 Previously **Associate Software Engineer** at **D-Gateway Innovations** (Sep 2024 – Apr 2026), building MERN web apps and REST APIs in an Agile team; joined as a Software Engineer Intern (Mar 2024)
 - 📄 Published researcher: paper presented at **CISCON 2026** (MIT Manipal, India), now in **IEEE Xplore**
 - 🏅 Full Stack Developer & Professional Practice in Software Development – University of Moratuwa (CODL)
 - 💬 Ask me about **React, Python, FastAPI, Flutter, and Machine Learning**
@@ -52,15 +53,22 @@ My part was the **Hydration** module: hydration risk prediction, personalized re
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,flutter,androidstudio" />
 </p>
+<code>React Native</code>
 
 **Backend & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,mongodb,mysql,postgres,sqlite" />
+</p>
+<code>REST APIs</code> <code>WebSocket</code>
+
+**Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
 </p>
 
 **AI / ML**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
 </p>
 <code>XGBoost</code> <code>MobileNetV2</code> <code>MediaPipe</code> <code>SHAP</code> <code>Computer Vision</code>
 
