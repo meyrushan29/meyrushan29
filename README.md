@@ -74,11 +74,11 @@ My part was the **Hydration** module: hydration risk prediction, personalized re
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meyrushan29&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=meyrushan29&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=meyrushan29&theme=github_dark" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=meyrushan29&theme=github_dark" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meyrushan29&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=meyrushan29&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
